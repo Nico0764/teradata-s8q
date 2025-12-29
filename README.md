@@ -1,0 +1,1 @@
+# teradata-s8q
